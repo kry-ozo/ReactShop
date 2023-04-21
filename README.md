@@ -1,2 +1,2 @@
 # ReactShop
-Basic Shop App created width React, I used hooks like:
+Basic Shop App created width React, tried to make this full responsive.
